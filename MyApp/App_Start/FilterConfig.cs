@@ -8,6 +8,7 @@ namespace MyApp
 		public static void RegisterGlobalFilters(GlobalFilterCollection filters)
 		{
 			filters.Add(new HandleErrorAttribute());
+			//Ceci est teste
 		}
 	}
 }
