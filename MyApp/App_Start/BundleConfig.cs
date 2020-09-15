@@ -27,6 +27,7 @@ namespace MyApp
 					  "~/Content/site.css"));
 
 			//Ceci est test sur GITHUB
+			//Ceci est un autre teste
 		}
 	}
 }
